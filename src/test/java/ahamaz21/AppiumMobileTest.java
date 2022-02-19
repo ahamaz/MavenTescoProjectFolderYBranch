@@ -29,7 +29,7 @@ public class AppiumMobileTest extends Base{
 	@Test
 	public void AppiumMobile2() throws IOException
 	{
-		System.out.println("Appium Test - 2");
+		System.out.println("Appium Test - 2..");
 	}
 
 	@AfterTest
