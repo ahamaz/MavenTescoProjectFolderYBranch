@@ -1,0 +1,11 @@
+16:07:47.664 [TestNG-tests-3] INFO  ahamaz21.SeleniumBrowserTest - Landed on amazon home page
+16:07:47.713 [TestNG-tests-3] INFO  ahamaz21.SeleniumBrowserTest - Window Maximized
+16:07:47.985 [TestNG-tests-3] INFO  ahamaz21.SeleniumBrowserTest - Waiting for page to upload fully.
+16:07:53.032 [TestNG-tests-3] INFO  ahamaz21.SeleniumBrowserTest - Accepting the Cookies.
+16:07:56.689 [TestNG-tests-3] INFO  ahamaz21.SeleniumBrowserTest - Entering the Login Credentials.
+16:16:46.973 [TestNG-tests-3] INFO  ahamaz21.SeleniumBrowserTest - Printing the URL of landed page.
+16:16:46.977 [TestNG-tests-3] DEBUG ahamaz21.SeleniumBrowserTest - Setting chrome driver property
+16:17:57.294 [TestNG-tests-3] INFO  ahamaz21.SeleniumBrowserTest - Printing the URL of landed page.
+16:17:57.298 [TestNG-tests-3] DEBUG ahamaz21.SeleniumBrowserTest - Setting chrome driver property
+16:18:59.889 [TestNG-tests-3] INFO  ahamaz21.SeleniumBrowserTest - Printing the URL of landed page.
+16:18:59.894 [TestNG-tests-3] DEBUG ahamaz21.SeleniumBrowserTest - Setting chrome driver property
